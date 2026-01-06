@@ -22,11 +22,11 @@ I'm **Kundan**, a Lead Blockchain Engineer with 4+ years of Web3 experience, spe
 
 -  🏆 **4x ETHGlobal Winner** | Starknet Re{solve} Champion | Proven track record in competitive blockchain development
 
--  ⛓️ **Multi-Chain Expert** | Solidity/EVM, Cairo/Starknet, Anchor/Solana, Move
+-  ⛓️ **Multi-Chain Expert** | Solidity/EVM, Cairo/Starknet, Anchor/Solana, Move/Sui , Motoko/ICP , Stylus/Arbitrum , Clarity/Stacks, Ink/Polkadot
 
--  🚀 Building **BuidL3 Protocol** | Web3 contribution-to-rewards platform (MVP Feb 2025)
+-  🚀 Building **ParaBuild Protocol** | On Chain Reputation Layer for web3 builders and contributers 
 
--  🧗‍♀️ Sharing Web3 knowledge at [LinkedIn](https://www.linkedin.com/in/kundan7750/)
+-  🧗‍♀️ Sharing Web3 knowledge at [LinkedIn](https://www.linkedin.com/in/kundandevner101/)
 
 -  ❤️ I love what I do.
    
@@ -97,7 +97,7 @@ I'm **Kundan**, a Lead Blockchain Engineer with 4+ years of Web3 experience, spe
 
 ## 🌱 Current Projects
 
-- **[BuidL3 Protocol](https://github.com/yourusername/buidl3)**: Web3 contribution-to-rewards platform launching MVP February 2025. Sophisticated DeFi protocol for rewarding ecosystem contributors.
+- **[ParaBuild Protocol](https://github.com/ParaBuild-Protocol)**: Web3 contribution-to-rewards platform launching MVP February 2025. Sophisticated DeFi protocol for rewarding ecosystem contributors.
 
 - **[ArbiTrace](https://github.com/yourusername/arbitrace)**: AI-powered cross-exchange execution engine integrating Crypto.com's MCP Server with VVS Finance DEX. Built for Cronos x402 Paytech Hackathon.
 
